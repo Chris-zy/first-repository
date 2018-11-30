@@ -1,0 +1,109 @@
+阿里云: 
+https://account.aliyun.com/login/login.htm
+
+后台管理系统:
+http://manage.zhongbencard.com/defaultMain.aspx
+
+小幺鸡:
+http://www.xiaoyaoji.cn/dashboard?v=2.1.7
+
+Git:
+http://39.105.50.13:3000/
+
+任务服务器--CentOS系统
+地址：39.105.50.13
+帐号：root
+密码：zb2018.04
+
+接口服务器
+地址：39.105.50.160(公)
+帐号：administrator
+密码：4BEA5F76-506A-4E2A
+
+代理商服务器
+地址：39.105.46.96(公)
+帐号：administrator
+密码：BE0B1D31-7AA9-4F31
+
+内网数据库服务器
+地址：172.17.82.238(私有)
+帐号：administrator
+密码：05BF15F4-C6C4-4AB3
+
+
+360应用市场
+登录地址：http://dev.360.cn/
+联系人：杨贤官
+联系方式：13661523777
+360账户：上海官云，密码gy123123 (已上架)
+ 
+小米应用市场
+登录地址：https://dev.mi.com/console/
+联系人：杨贤官
+联系方式：13661523777
+小米帐户：1504499457，密码gy123123 (已上架)
+
+OPPO 应用市场 
+登录地址：https://open.oppomobile.com/home/index
+oppo账户：上海官云，密码Gy123123
+
+应用宝账号757503330，
+密码15062194070@long 
+地址：http://op.open.qq.com (已上架)
+
+华为，账号757503330@qq.com。 (已上架)
+密码15062194070@long
+地址：http://developer.huawei.com
+ 
+苹果研发者账号
+账号：shengmeng@connree.com
+密码：Welcome@123!
+联系人：杨贤官/YANG XIANGUAN
+联系电话：13661523777
+座机号码：021-52998530
+
+苹果企业账号
+账号: liuhc299@163.com  
+密码:Liuhc299Account
+
+微信支付：
+账号：shengmeng03@connree.com
+密码：Welcome@123!
+微信支付商户号：1503826161
+商户号操作密码：zhongben123!
+API秘钥：d7577069a5a40f5530e8c52dcaedb29a
+商户平台登录帐号：1503826161@1503826161
+申请对应的应用：中本卡管家
+应用APPID:   wxb3ac65b5f9106def
+AppSecret: 50641e46b2baacb0ef8f1dd861ebe262
+
+支付宝支付
+shengmeng@connree.com
+
+蒲公英账号
+账号：zhongben_swl@163.com 
+密码：zhongben123
+
+百度云
+账号：15860803456
+lxz448279
+(需自己替换)
+API Key:mpqHZP7sINZVsCUg9qIzIeWv 
+Secret Key:v7PZGgCQMacLxd8ycBt1k2zzXWFWRBtK
+
+需要自己申请
+Bugly 账号
+友盟分享 账号
+
+
+Git用户名和密码
+root
+
+Zhongben2018
+zhaoyang
+888924
+
+本地虚拟机linux
+192.168.1.30
+root
+zhaoyang
